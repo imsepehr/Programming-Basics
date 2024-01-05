@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\IUT\Lessons\Semester 3th\Mabani\Mabani Project 1400\Mabani Project 1400\Mabani Project 1400\Source.cpp(372,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\IUT\Lessons\Semester 3th\Mabani\Mabani Project 1400\Mabani Project 1400\Mabani Project 1400\Source.cpp(574): warning C4717: 'guess': recursive on all control paths, function will cause runtime stack overflow
+  Mabani Project 1400.vcxproj -> E:\IUT\Lessons\Semester 3th\Mabani\Mabani Project 1400\Mabani Project 1400\Debug\Mabani Project 1400.exe
